@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/all-in-one-website/static/css/main.6759f52c.css",
+    "main.js": "/all-in-one-website/static/js/main.3d6d01a4.js",
+    "index.html": "/all-in-one-website/index.html",
+    "main.6759f52c.css.map": "/all-in-one-website/static/css/main.6759f52c.css.map",
+    "main.3d6d01a4.js.map": "/all-in-one-website/static/js/main.3d6d01a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6759f52c.css",
+    "static/js/main.3d6d01a4.js"
+  ]
+}
